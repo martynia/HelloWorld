@@ -2,7 +2,7 @@
 import sys
 
 print "----------------------"
-print "Hello, I'm a snake !"
+print "Hello, I'm a snake !  /\/\/o"
 print "----------------------"
 
 print " More info:\n"
